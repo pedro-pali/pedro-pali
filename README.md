@@ -1,16 +1,13 @@
-## Hola, soy Pedro. ¡Gusto en conocerlos!
 
-<!--
-**pedro-pali/pedro-pali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hola, soy Pedro. ¡Gusto en conocerlos! 
+
+Sibre mí:
+:satellite:Interés geninuo en la tecnológia y todo lo que la redea, por eso estoy en constante aprendimiento!!
+
+- :file_folder: Actualmente estoy finalizando un bootcamp innovador de tecnología para convertirme en un especialista en análisis de datos.
+- :white_check_mark: Aplicando y reforazando mis conocimientos en lenguaje :computer: Python y SQL.
+- :battery: Estoy buscando nuevos retos por eso mi transición al mundo tech.
+
+Puedes encontrarme en: 
