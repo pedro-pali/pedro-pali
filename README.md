@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Pedro. ¡Gusto en conocerlos!
 
 <!--
 **pedro-pali/pedro-pali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
