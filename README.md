@@ -1,4 +1,5 @@
 
+<img width="1536" height="1024" alt="Portada in" src="https://github.com/user-attachments/assets/9bbe47bd-b524-4b9c-81dd-0c4172adb264" />
 
 
 ## Hola, soy Pedro. ¡Gusto en conocerlos! 
