@@ -13,4 +13,4 @@ Interés geninuo en la tecnológia y todo lo que la redea, por eso estoy en cons
 
 Puedes encontrarme en:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-Pedro_Padilla-0077B5?style=for-the-barge&logo=linkedin&logoColor=white&labelColor=101010)](linkedin.com/in/pedropadillalizarraga)
+[![LinkedIn](https://img.shields.io/badge/linkedin-Pedro_Padilla-0077B5?style=for-the-barge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedropadillalizarraga/)
