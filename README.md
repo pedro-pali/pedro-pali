@@ -1,8 +1,9 @@
 
-<img width="1536" height="1024" alt="Portada in" src="https://github.com/user-attachments/assets/9bbe47bd-b524-4b9c-81dd-0c4172adb264" />
+<img width="1536" height="1024" alt="ChatGPT Image 25 feb 2026, 08_56_20 a m" src="https://github.com/user-attachments/assets/9fe87434-a223-44a4-882a-49c8c1e888e1" />
 
 
 ## Hola, soy Pedro. ¡Gusto en conocerlos! 
+
 
 Sobre mí:
 Interés geninuo en la tecnológia y todo lo que la redea, por eso estoy en constante aprendimiento!!
