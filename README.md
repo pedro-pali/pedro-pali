@@ -4,18 +4,13 @@
 
 ## Welcome to my GitHub profile! I am a Process Engineer & Data Analyst with a passion for leveraging data to drive powerful insight. Below, you'll find more about me, my skills, and the projects. 
 
+:man_technologist: About me:
+:earth_americas: Based in México.
+:computer: Currently working as a Freelancer in data analyst and process optimization.
+:chart_with_upwards_trend: Improving my skills in data analyst, insights and machine learning.
+:zap: Passionate about data visualization and creating innavative solucions.
 
-👨‍💻 About Me:
-
-🌍 Based in México.
-
-💼 Currently working as a Freelancer in data analysis and process optimization.
-
-🎓 Pursuing a improve my skills in data analyst, insights and machine learning.
-
-🌟 Passionate about data visualization, machine learning, and creating innovative solutions.
-
-🛠️ Technical Skills:
+:gear:Technical Skills:
 
 Programming Languages: Python, SQL
 Data Analysis: Pandas, Matplotlib, Seaborn
@@ -36,6 +31,6 @@ Other Tools: Microsoft Office, Google Tools
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
 </p>
 
-Puedes encontrarme en:
+📬 we can meet:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-Pedro_Padilla-0077B5?style=for-the-barge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedropadillalizarraga/)
