@@ -2,15 +2,15 @@
 <img width="1536" height="1024" alt="ChatGPT Image 27 feb 2026, 03_28_50 p m" src="https://github.com/user-attachments/assets/227e37c2-502b-4fdb-a61d-467b34b63402" />
 
 
-## Hola, soy Pedro. ¡Gusto en conocerlos! 
+## Welcome to my GitHub profile! I am a Process Engineer & Data Analyst with a passion for leveraging data to drive powerful insight. Below, you'll find more about me, my skills, and the projects. 
 
 
-Sobre mí:
-Interés geninuo en la tecnológia y todo lo que la redea, por eso estoy en constante aprendimiento!!
+👨‍💻 ### About Me:
 
-- :file_folder: Actualmente estoy finalizando un bootcamp innovador de tecnología para convertirme en un especialista en análisis de datos.
-- :white_check_mark: Aplicando y reforazando mis conocimientos en lenguaje :computer: Python y SQL.
-- :seedling: Estoy buscando nuevos retos por eso mi transición al mundo tech.
+🌍 Based in México.
+💼 Currently working as a Freelancer in data analysis and process optimization.
+🎓 Pursuing a improve my skills in data analyst, insights and machine learning.
+🌟 Passionate about data visualization, machine learning, and creating innovative solutions.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
