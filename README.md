@@ -12,6 +12,18 @@ Interés geninuo en la tecnológia y todo lo que la redea, por eso estoy en cons
 - :white_check_mark: Aplicando y reforazando mis conocimientos en lenguaje :computer: Python y SQL.
 - :seedling: Estoy buscando nuevos retos por eso mi transición al mundo tech.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white">
+  <img src="https://img.shields.io/badge/Google_Tools-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
+</p>
+
 Puedes encontrarme en:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-Pedro_Padilla-0077B5?style=for-the-barge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedropadillalizarraga/)
