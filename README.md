@@ -5,12 +5,23 @@
 ## Welcome to my GitHub profile! I am a Process Engineer & Data Analyst with a passion for leveraging data to drive powerful insight. Below, you'll find more about me, my skills, and the projects. 
 
 
-👨‍💻 ### About Me:
+👨‍💻 About Me:
 
 🌍 Based in México.
+
 💼 Currently working as a Freelancer in data analysis and process optimization.
+
 🎓 Pursuing a improve my skills in data analyst, insights and machine learning.
+
 🌟 Passionate about data visualization, machine learning, and creating innovative solutions.
+
+🛠️ Technical Skills:
+
+Programming Languages: Python, SQL
+Data Analysis: Pandas, Matplotlib, Seaborn
+Visualization Tools: Tableau, Power BI
+Cloud Platforms: AWS
+Other Tools: Microsoft Office, Google Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -20,7 +31,8 @@
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+   <img src="https://img.shields.io/badge/Seaborn-D83B01?style=for-the-badge&logo=seaborn&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
 </p>
 
