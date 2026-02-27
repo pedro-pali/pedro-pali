@@ -1,5 +1,5 @@
 
-<img width="1000" height="1024" alt="ChatGPT Image 25 feb 2026, 08_56_20 a m" src="https://github.com/user-attachments/assets/9fe87434-a223-44a4-882a-49c8c1e888e1" />
+<img width="1536" height="1024" alt="ChatGPT Image 27 feb 2026, 03_28_50 p m" src="https://github.com/user-attachments/assets/227e37c2-502b-4fdb-a61d-467b34b63402" />
 
 
 ## Hola, soy Pedro. ¡Gusto en conocerlos! 
