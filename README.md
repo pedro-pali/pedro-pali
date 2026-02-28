@@ -4,19 +4,23 @@
 
 ## Welcome to my GitHub profile! I am a Process Engineer & Data Analyst with a passion for leveraging data to drive powerful insight. Below, you'll find more about me, my skills, and the projects. 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 :man_technologist: About me:
-:earth_americas: Based in México.
-:computer: Currently working as a Freelancer in data analyst and process optimization.
-:chart_with_upwards_trend: Improving my skills in data analyst, insights and machine learning.
-:zap: Passionate about data visualization and creating innavative solucions.
+- :earth_americas: Based in México.
+- :computer: Currently working as a Freelancer in data analyst and process optimization.
+- :chart_with_upwards_trend: Improving my skills in data analyst, insights and machine learning.
+- :zap: Passionate about data visualization and creating innavative solucions.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 :gear:Technical Skills:
 
-Programming Languages: Python, SQL
-Data Analysis: Pandas, Matplotlib, Seaborn
-Visualization Tools: Tableau, Power BI
-Cloud Platforms: AWS
-Other Tools: Microsoft Office, Google Tools
+- Programming Languages: Python, SQL
+- Data Analysis: Pandas, Matplotlib, Seaborn
+- Visualization Tools: Tableau, Power BI
+- Cloud Platforms: AWS
+- Other Tools: Microsoft Office, Google Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -31,6 +35,10 @@ Other Tools: Microsoft Office, Google Tools
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
 </p>
 
-📬 we can meet:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+📬 We can meet!:
+
+[![Email](https://img.shields.io/badge/email-pedro.lizarraga@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:pedro.lizarraga@outlook.com)
+[![Phone](https://img.shields.io/badge/phone-+52_624_238_8976D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](tel:+5224238976)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Pedro_Padilla-0077B5?style=for-the-barge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedropadillalizarraga/)
