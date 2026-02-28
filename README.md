@@ -2,9 +2,11 @@
 <img width="1536" height="1024" alt="ChatGPT Image 27 feb 2026, 03_28_50 p m" src="https://github.com/user-attachments/assets/227e37c2-502b-4fdb-a61d-467b34b63402" />
 
 
-## Welcome to my GitHub profile! I am a Process Engineer & Data Analyst with a passion for leveraging data to drive powerful insight. Below, you'll find more about me, my skills, and the projects. 
+## Welcome to my GitHub profile! 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I am a Process Engineer & Data Analyst with a passion for leveraging data to drive powerful insight. Below, you'll find more about me, my skills, and the projects. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 :man_technologist: About me:
 - :earth_americas: Based in México.
@@ -12,7 +14,7 @@
 - :chart_with_upwards_trend: Improving my skills in data analyst, insights and machine learning.
 - :zap: Passionate about data visualization and creating innavative solucions.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 :gear:Technical Skills:
 
@@ -35,7 +37,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
 </p>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📬 We can meet!:
 
