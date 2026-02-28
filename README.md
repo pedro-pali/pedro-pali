@@ -12,7 +12,7 @@ I am a Process Engineer & Data Analyst with a passion for leveraging data to dri
 - :earth_americas: Based in México.
 - :computer: Currently working as a Freelancer in data analyst and process optimization.
 - :chart_with_upwards_trend: Improving my skills in data analyst, insights and machine learning.
-- :zap: Passionate about data visualization and creating innavative solucions.
+- :zap: Passionate about data visualization and creating innovative solucions.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
