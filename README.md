@@ -41,8 +41,13 @@ I am a Process Engineer & Data Analyst with a passion for leveraging data to dri
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+:charts: Recent proyects:
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📬 We can meet!:
 
 [![Email](https://img.shields.io/badge/email-pedro.lizarraga@outlook.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:pedro.lizarraga@outlook.com)
-[![Phone](https://img.shields.io/badge/phone-+52_624_238_8976D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](tel:+5224238976)
+[![Phone](https://img.shields.io/badge/phone-+52_624_238_8976-D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](tel:+52624238976)
 [![LinkedIn](https://img.shields.io/badge/linkedin-Pedro_Padilla-0077B5?style=for-the-barge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/pedropadillalizarraga/)
