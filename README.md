@@ -16,7 +16,7 @@ I am a Process Engineer & Data Analyst with a passion for leveraging data to dri
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-:gear:Technical Skills:
+:gear: Technical Skills:
 
 - Programming Languages: Python, SQL
 - Data Analysis: Pandas, Matplotlib, Seaborn
@@ -41,8 +41,19 @@ I am a Process Engineer & Data Analyst with a passion for leveraging data to dri
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-:chart: Recent proyects:
+📊 Recent proyects:
 
+1. Customer insights dashboard.
+**Tools used**: Power Bi.
+**Summary**: Designed interactive dashboards to visualize tech jobs around the world.
+
+2. Customer churn forecasting.
+**Tools used**: Python, Visual Studio Code, Excel.
+**Summary**: Analyzed gym membership churn from datasets and developed a retention strategy based on key churn drivers.
+
+3. Test A/B:
+**Tools used**: Python, Visual Studio Code.
+**Summary**: Applied a test A/B.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
