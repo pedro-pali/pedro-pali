@@ -4,7 +4,7 @@
 
 ## Welcome to my GitHub profile! 
 
-I am a Process Engineer & Data Analyst with a passion for leveraging data to drive powerful insight. Below, you'll find more about me, my skills, and the projects. 
+I am a Data Analyst with background in Process Engineering, a passion for leveraging data to drive powerful insight. Below, you'll find more about me, my skills, and the projects. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
